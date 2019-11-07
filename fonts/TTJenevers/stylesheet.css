@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('TTJenevers-BoldItalic.eot');
+    src: local('TT Jenevers Bold Italic'), local('TTJenevers-BoldItalic'),
+        url('TTJenevers-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('TTJenevers-BoldItalic.woff2') format('woff2'),
+        url('TTJenevers-BoldItalic.woff') format('woff'),
+        url('TTJenevers-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('TTJenevers-Light.eot');
+    src: local('TT Jenevers Light'), local('TTJenevers-Light'),
+        url('TTJenevers-Light.eot?#iefix') format('embedded-opentype'),
+        url('TTJenevers-Light.woff2') format('woff2'),
+        url('TTJenevers-Light.woff') format('woff'),
+        url('TTJenevers-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('TTJenevers-Regular.eot');
+    src: local('TT Jenevers Regular'), local('TTJenevers-Regular'),
+        url('TTJenevers-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TTJenevers-Regular.woff2') format('woff2'),
+        url('TTJenevers-Regular.woff') format('woff'),
+        url('TTJenevers-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('TTJenevers-ExtraBold.eot');
+    src: local('TT Jenevers ExtraBold'), local('TTJenevers-ExtraBold'),
+        url('TTJenevers-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('TTJenevers-ExtraBold.woff2') format('woff2'),
+        url('TTJenevers-ExtraBold.woff') format('woff'),
+        url('TTJenevers-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('TTJenevers-Bold.eot');
+    src: local('TT Jenevers Bold'), local('TTJenevers-Bold'),
+        url('TTJenevers-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TTJenevers-Bold.woff2') format('woff2'),
+        url('TTJenevers-Bold.woff') format('woff'),
+        url('TTJenevers-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('TTJenevers-BlackItalic.eot');
+    src: local('TT Jenevers Black Italic'), local('TTJenevers-BlackItalic'),
+        url('TTJenevers-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('TTJenevers-BlackItalic.woff2') format('woff2'),
+        url('TTJenevers-BlackItalic.woff') format('woff'),
+        url('TTJenevers-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('TTJenevers-ExtraBoldItalic.eot');
+    src: local('TT Jenevers ExtraBold Italic'), local('TTJenevers-ExtraBoldItalic'),
+        url('TTJenevers-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('TTJenevers-ExtraBoldItalic.woff2') format('woff2'),
+        url('TTJenevers-ExtraBoldItalic.woff') format('woff'),
+        url('TTJenevers-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('TTJenevers-Italic.eot');
+    src: local('TT Jenevers Italic'), local('TTJenevers-Italic'),
+        url('TTJenevers-Italic.eot?#iefix') format('embedded-opentype'),
+        url('TTJenevers-Italic.woff2') format('woff2'),
+        url('TTJenevers-Italic.woff') format('woff'),
+        url('TTJenevers-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('../fonts/TT Jenevers/TTJenevers-Medium.eot');
+    src: local('../fonts/TT Jenevers/TT Jenevers Medium'), local('TTJenevers-Medium'),
+        url('../fonts/TT Jenevers/TTJenevers-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TT Jenevers/TTJenevers-Medium.woff2') format('woff2'),
+        url('../fonts/TT Jenevers/TTJenevers-Medium.woff') format('woff'),
+        url('../fonts/TT Jenevers/TTJenevers-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '';
+    src: url('2be64d1de5172c4377e23e253817c83c.eot');
+    src: local('ø'), local(''),
+        url('2be64d1de5172c4377e23e253817c83c.eot?#iefix') format('embedded-opentype'),
+        url('2be64d1de5172c4377e23e253817c83c.woff2') format('woff2'),
+        url('2be64d1de5172c4377e23e253817c83c.woff') format('woff'),
+        url('2be64d1de5172c4377e23e253817c83c.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('TTJenevers-MediumItalic.eot');
+    src: local('TT Jenevers Medium Italic'), local('TTJenevers-MediumItalic'),
+        url('TTJenevers-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('TTJenevers-MediumItalic.woff2') format('woff2'),
+        url('TTJenevers-MediumItalic.woff') format('woff'),
+        url('TTJenevers-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'TT Jenevers';
+    src: url('TTJenevers-LightItalic.eot');
+    src: local('TT Jenevers Light Italic'), local('TTJenevers-LightItalic'),
+        url('TTJenevers-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('TTJenevers-LightItalic.woff2') format('woff2'),
+        url('TTJenevers-LightItalic.woff') format('woff'),
+        url('TTJenevers-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
