@@ -13,6 +13,7 @@ let footer = document.querySelector('footer');
 let parallax = document.querySelector('.parallax');
 let aNav = document.querySelectorAll('nav a, #order');
 let img = document.querySelectorAll('.perspective-card');
+let appearBlock = document.querySelectorAll('.appear');
 
 burger.onclick = function(){
 	this.classList.toggle('menu-btn_active');
@@ -47,8 +48,6 @@ window.addEventListener('scroll', function() {
 	let vh = html.clientHeight;
 	let topParallax = vh - heightParallax;
 	parallax.style.top = topParallax + 'px';
-
-
 });
 
 
@@ -93,4 +92,15 @@ function rotatePicture(event){
 }
 function returnPicture(event){
     this.style.transform = 'rotateX(0deg) rotateY(0deg) translateZ(0px)';
+}
+
+for (let i = 0; i < appearBlock.length; i++){
+	appearBlock[i].style.opacity = '0';
+	appearBlock[i].style.transition = '1s';
+	window.addEventListener('scroll', function() {
+		let appearTop = appearBlock[i].getBoundingClientRect();
+		let vh = html.clientHeight;
+		let appearValue = appearTop.top - vh*0.85;
+		if (appearValue <= 0) 	appearBlock[i].style.opacity = '1';
+	});
 }
